@@ -1,0 +1,19 @@
+body{
+  background-color: #FFE4E1;
+}
+h1 {
+  color: pink;
+  text-align: center;
+}
+h2 {
+  color: #800080;
+  font-style: italic;
+  text-align: center;
+}
+p{
+  font-family: sans-serif;
+  font-size: 14pt;
+}
+ul{
+  line-height: 40px;
+}
